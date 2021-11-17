@@ -1,0 +1,21 @@
+header {
+    /* display: flex;
+    line-height: 83px; */
+}
+
+.title-nav {
+    flex-grow: 1;
+    
+       text-align: center;
+        display: flex;
+        justify-content: space-around;
+    
+}
+.navs{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.user{
+    margin-top: auto;
+    margin-bottom: auto;
+}

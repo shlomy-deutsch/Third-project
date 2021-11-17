@@ -1,0 +1,13 @@
+.productTitleActions {
+  justify-content: space-between !important;
+  display: flex;
+  flex-direction: row;
+  max-width: 900px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.productTitleActions h1 {
+  flex-grow: 1;
+}
